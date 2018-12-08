@@ -3,7 +3,7 @@
     <data>
 
         <menuitem id="training_menu_root" name="培训管理" sequence="0"/>
-        <menuitem id="subject_menu" parent="training_menu_root" action="action_training_subject" sequence="10"/>
+        <menuitem id="subject_menu" name="科目" parent="training_menu_root" action="action_training_subject" sequence="30"/>
         <menuitem id="person_menu" name ="人员资料" parent="training_menu_root" sequence="30"/>
        
 
